@@ -1,4 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/LUIZ919117215/c)
+![GitHub License](https://img.shields.io/github/license/LUIZ919117215/c)
 # Linguagem C
 ## Curso - Primeiros passos com a Linguagem C
 Aprenda Linguagem C de forma simple e descontraída. Este curso também ensina Lógica de Programação e é ponto de partida que desejam aprender a programar.
